@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Devansh Purohit
-**A passionate Mern Stack Engineer || Full Stack Engineer || Gen AI**
+**A passionate Mern Stack Developer || Full Stack Developer || Gen AI**
 
 Email Me 👉 ✉️ **purohitdevansh22@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
